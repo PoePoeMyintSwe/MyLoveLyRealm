@@ -1,0 +1,53 @@
+[
+	{
+		"resId" : 1,
+		"name" : "Dawy Lay May",
+		"category" : 1
+	},
+	{
+		"resId" : 2,
+		"name" : "Aye Myitta",
+		"category" : 1
+	},
+	{
+		"resId" : 3,
+		"name" : "Royal Mandalay",
+		"category" : 2
+	},
+	{
+		"resId" : 4,
+		"name" : "BBB",
+		"category" : 2
+	},
+	{
+		"resId" : 5,
+		"name" : "Shwe Pyi Moe",
+		"category" : 3
+	},
+	{
+  		"resId" : 6,
+  		"name" : "Arkar Soe",
+  		"category" : 3
+  	},
+  	{
+  		"resId" : 7,
+  		"name" : "Cafe City",
+  		"category" : 4
+  	},
+  	{
+  		"resId" : 8,
+  		"name" : "Cafe Vanilla",
+  		"category" : 4
+  	},
+  	{
+  		"resId" : 9,
+  		"name" : "Chin Lone",
+  		"category" : 5
+  	},
+  	{
+  		"resId" : 10,
+  		"name" : "Yan Tone",
+  		"category" : 5
+  	}
+
+]

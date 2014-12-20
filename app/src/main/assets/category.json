@@ -1,0 +1,23 @@
+[
+	{
+		"catid" : 1,
+		"category" : "Myanmar Restaurant"
+	},
+	{
+		"catid" : 2,
+		"category" : "European Restaurant"
+	},
+	{
+		"catid" : 3,
+		"category" : "Tea Shop"
+	},
+	{
+		"catid" : 4,
+		"category" : "European Cafe"
+	},
+	{
+		"catid" : 5,
+		"category" : "Chinese Restaurant"
+	}
+
+]
